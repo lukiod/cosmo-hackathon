@@ -1,6 +1,6 @@
-# VoiceCode Academy: Voice-Operated Code Learning Platform
+# EchoVerse: Voice-Operated Code Learning Platform
 
-VoiceCode Academy is an innovative platform where users can learn coding through voice interactions. Here's how we can leverage Cosmocloud to build this platform:
+EchoVerse is an innovative platform where users can learn coding through voice interactions. Here's how we can leverage Cosmocloud to build this platform:
 
 1. User Authentication API
    - Implement secure signup and login using voice recognition
